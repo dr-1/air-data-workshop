@@ -22,6 +22,7 @@ Please make sure you are set up with the following for the workshop:
 - Knowledge of Pandas and Matplotlib will be helpful but is not critical
 - Be sure that [Python 3](https://www.python.org/) is installed
 - Install Jupyter: run `pip3 install jupyter`
+- Clone this workshop repository or download its Exercises notebook
 - Clone or simply download and unzip the
 [analysis toolkit](https://github.com/dr-1/airqdata)
 - Install the packages required by the analysis toolkit: run
