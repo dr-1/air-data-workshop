@@ -20,7 +20,7 @@ Please make sure you are set up with the following for the workshop:
 - Bring a computer
 - You will need basic to intermediate knowledge of Python and Jupyter Notebooks
 - Knowledge of Pandas and Matplotlib will be helpful but is not critical
-- Be sure that [Python 3](https://www.python.org/) is installed
+- Be sure that [Python 3.5](https://www.python.org/) or higher is installed
 - Install Jupyter: run `pip3 install jupyter`
 - Clone this workshop repository or download its Exercises notebook
 - Clone or simply download and unzip the
