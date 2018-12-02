@@ -25,6 +25,3 @@ Please make sure you are set up with the following for the workshop:
 `pip3 install --upgrade airqdata`
 - Install Jupyter: run `pip3 install jupyter`
 - Clone this workshop repository or download its Exercises notebook
-- Install the packages required by the analysis toolkit: run
-`pip3 install --upgrade requests pandas matplotlib`
-
